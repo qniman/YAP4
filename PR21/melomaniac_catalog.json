@@ -1,0 +1,302 @@
+[
+  {
+    "track_id": 1,
+    "title": "Платина",
+    "artist": "Платина",
+    "album": "Платина",
+    "genre": "Rap",
+    "year": 2024,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 2,
+    "title": "Марабу",
+    "artist": "ATL",
+    "album": "-",
+    "genre": "Rap",
+    "year": 2000,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 3,
+    "title": "В темноте",
+    "artist": "Mayot",
+    "album": "City Life",
+    "genre": "Rap",
+    "year": 2023,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 4,
+    "title": "Луна",
+    "artist": "T-Fest",
+    "album": "Flow",
+    "genre": "Hip-Hop",
+    "year": 2022,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 5,
+    "title": "Нас не догонят",
+    "artist": "t.A.T.u.",
+    "album": "200 km/h in the Wrong Lane",
+    "genre": "Pop",
+    "year": 2002,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 6,
+    "title": "Миллион алых роз",
+    "artist": "Алла Пугачёва",
+    "album": "Алла",
+    "genre": "Pop",
+    "year": 1983,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 7,
+    "title": "Плачу на техно",
+    "artist": "Cream Soda & Хлеб",
+    "album": "Плачу на техно",
+    "genre": "Electronic",
+    "year": 2019,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 8,
+    "title": "Розовое вино",
+    "artist": "Элджей & Feduk",
+    "album": "Sayonara Boy",
+    "genre": "Pop-Rap",
+    "year": 2017,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 9,
+    "title": "Без обид",
+    "artist": "Big Baby Tape",
+    "album": "VARSKVA",
+    "genre": "Rap",
+    "year": 2021,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 10,
+    "title": "Вечно молодой",
+    "artist": "Смоки Мо",
+    "album": "Кара-Тэ",
+    "genre": "Hip-Hop",
+    "year": 2004,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 11,
+    "title": "Мой кайф",
+    "artist": "Jah Khalib",
+    "album": "Выход в свет",
+    "genre": "R&B",
+    "year": 2018,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 12,
+    "title": "Беги от меня",
+    "artist": "Мари Краймбрери",
+    "album": "Быть живой",
+    "genre": "Pop",
+    "year": 2020,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 13,
+    "title": "Сияй",
+    "artist": "МакSим",
+    "album": "Мой рай",
+    "genre": "Pop",
+    "year": 2007,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 14,
+    "title": "Меланхолия",
+    "artist": "SALUKI",
+    "album": "Infinity",
+    "genre": "Experimental",
+    "year": 2022,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 15,
+    "title": "Давай сбежим",
+    "artist": "Zivert",
+    "album": "Vinyl #1",
+    "genre": "Pop",
+    "year": 2019,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 16,
+    "title": "Пепел",
+    "artist": "Хаски",
+    "album": "Любимые треки мамы",
+    "genre": "Rap",
+    "year": 2024,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 17,
+    "title": "Лёд",
+    "artist": "Miyagi & Andy Panda",
+    "album": "Yamakasi",
+    "genre": "Hip-Hop",
+    "year": 2021,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 18,
+    "title": "Танцуй сама",
+    "artist": "Artik & Asti",
+    "album": "Миллениум",
+    "genre": "Pop",
+    "year": 2020,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 19,
+    "title": "Северное сияние",
+    "artist": "Кравц",
+    "album": "Город под подошвой",
+    "genre": "Rap",
+    "year": 2018,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 20,
+    "title": "Звезда по имени Солнце",
+    "artist": "Кино",
+    "album": "Звезда по имени Солнце",
+    "genre": "Rock",
+    "year": 1989,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 21,
+    "title": "Грустная песня",
+    "artist": "instasamka",
+    "album": "Queen of Rap",
+    "genre": "Pop",
+    "year": 2024,
+    "rating": 3,
+    "notes": ""
+  },
+  {
+    "track_id": 22,
+    "title": "Собака Баскервилей",
+    "artist": "Noize MC",
+    "album": "Выход в город",
+    "genre": "Alternative",
+    "year": 2024,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 23,
+    "title": "Молодость",
+    "artist": "Баста",
+    "album": "40",
+    "genre": "Rap",
+    "year": 2020,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 24,
+    "title": "Небо поможет нам",
+    "artist": "Виа Гра",
+    "album": "Поп",
+    "genre": "Pop",
+    "year": 2010,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 25,
+    "title": "Половина моя",
+    "artist": "HammAli & Navai",
+    "album": "Janavi",
+    "genre": "Pop-Rap",
+    "year": 2018,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 26,
+    "title": "Белый снег",
+    "artist": "IOWA",
+    "album": "Export",
+    "genre": "Pop",
+    "year": 2015,
+    "rating": 3,
+    "notes": ""
+  },
+  {
+    "track_id": 27,
+    "title": "Пламя",
+    "artist": "Markul",
+    "album": "Great Depression",
+    "genre": "Rap",
+    "year": 2023,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 28,
+    "title": "Сансара",
+    "artist": "Баста",
+    "album": "Баста 5",
+    "genre": "Rap",
+    "year": 2016,
+    "rating": 5,
+    "notes": ""
+  },
+  {
+    "track_id": 29,
+    "title": "Океан",
+    "artist": "Loboda",
+    "album": "H2LO",
+    "genre": "Pop",
+    "year": 2020,
+    "rating": 4,
+    "notes": ""
+  },
+  {
+    "track_id": 30,
+    "title": "Тает лёд",
+    "artist": "Грибы",
+    "album": "Дом на колёсах",
+    "genre": "Rap",
+    "year": 2017,
+    "rating": 5,
+    "notes": ""
+  }
+]
